@@ -13,4 +13,6 @@
   <img src="/assets/rstudio.png" width="48" height="48">
   <img src="/assets/windows.png" width="48" height="48">
 
+  [![2jammers's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jammers)](https://github.com/2jammers)
+
 </div>
